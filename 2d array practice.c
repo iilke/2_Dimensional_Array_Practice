@@ -1,4 +1,4 @@
-//Ilke Durmaz	16.12.2022
+//Ilke D.	16.12.2022
 
 #include <stdio.h>
 
